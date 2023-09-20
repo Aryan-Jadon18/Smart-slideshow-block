@@ -1,4 +1,5 @@
 [**Demo Link**](https://smart-slideshow-rtcamp.vercel.app/)
+Deployed with vercell.app
 
 === Smart-Slideshow ===
 Contributors:      The WordPress Contributors
