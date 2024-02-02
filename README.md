@@ -1,4 +1,4 @@
-###This is a wodpress plugin
+# This is a wodpress plugin for implemeting autoshifting sliders in your website.
 [**Demo Link**](https://smart-slideshow-rtcamp.vercel.app/)
 Deployed with vercell.app
 
