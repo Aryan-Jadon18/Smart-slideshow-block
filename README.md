@@ -52,7 +52,7 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 = 0.1.0 =
 * Release
 
-## 🤝 Contributing
+## Contributing
 
 Contributions to the WordPress Smart Slider Plugin are welcomed and encouraged! Here's how you can get started:
 
