@@ -52,7 +52,40 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 = 0.1.0 =
 * Release
 
-== Arbitrary section ==
+## How to Contribute
+
+Contributions to the WordPress Smart Slider Plugin are welcomed and encouraged! Here's how you can get started:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your contribution: `git checkout -b feature/your-feature`.
+3. Make your changes and test them thoroughly.
+4. Commit your changes: `git commit -am 'Add new feature'`.
+5. Push to the branch: `git push origin feature/your-feature`.
+6. Submit a pull request with a detailed description of your changes.
+
+## Code Style
+
+Please adhere to the code style guidelines of this project. If you are unsure about the coding conventions, feel free to ask in the pull request.
+
+## Issue Reporting
+
+If you encounter any issues while using the WordPress Smart Slider Plugin, please report them in the [Issues](https://github.com/your-username/wordpress-smart-slider-plugin/issues) section of the repository. Include detailed information about how to reproduce the issue.
+
+## Pull Request Guidelines
+
+When submitting a pull request, please ensure that:
+
+- Your code is properly tested.
+- Your changes are well-documented.
+- Your commits are atomic and have clear commit messages.
+
+## License
+
+By contributing to the WordPress Smart Slider Plugin, you agree that your contributions will be licensed under the [GPL-2.0 License](LICENSE) file of the repository.
+
+## Contact
+
+If you have any questions or need further assistance, feel free to reach out to us at [Maintainer's Email Address].
 
 You may provide arbitrary sections, in the same format as the ones above. This may be of use for extremely complicated
 plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
