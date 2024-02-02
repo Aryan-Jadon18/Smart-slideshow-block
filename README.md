@@ -1,3 +1,4 @@
+###This is a wodpress plugin
 [**Demo Link**](https://smart-slideshow-rtcamp.vercel.app/)
 Deployed with vercell.app
 
